@@ -6,7 +6,7 @@ tags:
   - C++
   - OpenGL
   - Individual
-imgUrl: '../../assets/astro.jpeg'
+imgUrl: '../../assets/asteroids.gif'
 description: Individually created 2D and 3D versions of game based off the classic game Asteroids using C++ and OpenGL.
 layout: '../../layouts/BlogPost.astro'
 ---

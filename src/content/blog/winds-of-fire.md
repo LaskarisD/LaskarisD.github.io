@@ -7,7 +7,7 @@ tags:
   - Unity
   - Group Project
   - AI
-imgUrl: '../../assets/astro.jpeg'
+imgUrl: '../../assets/fire.gif'
 layout: ../../layouts/BlogPost.astro
 ---
 
