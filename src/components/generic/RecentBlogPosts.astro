@@ -24,6 +24,9 @@ const posts = await getCollection('blog').then((posts) =>
       <div class='hidden md:block'>
         <Button href='/projects/'>More projects &rarr;</Button>
       </div>
+      <div class='block md:hidden'>
+        <Button href='/projects/'>More projects</Button>
+      </div>
     </div>
     <BlogList posts={posts} />
   </Card>
