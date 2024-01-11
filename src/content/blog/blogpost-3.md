@@ -5,7 +5,6 @@ pubDate: 2023-02-14 23:49
 author: Laskaris Dionyssopoulos
 tags: 
   - Unity
-  - C#
   - Group Project
   - AI
 imgUrl: '../../assets/astro.jpeg'
