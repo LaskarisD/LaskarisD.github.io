@@ -1,0 +1,13 @@
+---
+interface Props {
+  content: any;
+}
+
+const { content } = Astro.props;
+---
+
+<article class='prose-slate w-sm md:w-prose md:prose poppins'>
+  <a href='/blog/' title='Back to blog'>&larr; Back to projects</a>
+  <slot />
+  <a href='/blog/' title='Back to blog'>&larr; Back to projects</a>
+</article>
