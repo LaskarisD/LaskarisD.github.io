@@ -5,7 +5,7 @@ pubDate: 2023-02-14 23:49
 author: Laskaris Dionyssopoulos
 tags: 
   - Unity
-  - C#
+  - C Sharp
   - AI
 imgUrl: '../../assets/fire.gif'
 layout: ../../layouts/BlogPost.astro
