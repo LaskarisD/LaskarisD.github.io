@@ -5,7 +5,7 @@ pubDate: 2023-02-14 23:49
 author: Laskaris Dionyssopoulos
 tags: 
   - Unity
-  - Group Project
+  - C#
   - AI
 imgUrl: '../../assets/fire.gif'
 layout: ../../layouts/BlogPost.astro
@@ -22,3 +22,11 @@ and obstacle avoidance. Helped integration of wave function collapse
 for procedural level generation to ensure that no paths were blocked off.
 Also individually applied deep reinforcement learning to the game with an 
 agent playing a smaller scale version of the game.
+
+### Gameplay of Iteration 1 
+(Simple AI Behaviours Added)
+![WoF gameplay v1](../../assets/v1.gif "WoF gameplay v1")   
+
+### Gameplay of Iteration 1 
+(Simple AI Behaviours Added)
+![WoF gameplay v2](../../assets/v2.gif "WoF gameplay v2")   

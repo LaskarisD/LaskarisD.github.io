@@ -18,5 +18,5 @@ along with dynamic memory management. Main contribution wasimplementing abstract
 data types and logic for objects in game such as Tilebag,Tile and Centre Factory.
 Also helped implement gameplay logic for actual round of game. 
 
-
+![cli gameplay of azul](../../assets/azul.gif "azul")
 
