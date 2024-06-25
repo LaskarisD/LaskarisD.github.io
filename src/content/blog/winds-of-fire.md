@@ -27,6 +27,6 @@ agent playing a smaller scale version of the game.
 (Simple AI Behaviours Added)
 ![WoF gameplay v1](../../assets/v1.gif "WoF gameplay v1")   
 
-### Gameplay of Iteration 1 
-(Simple AI Behaviours Added)
+### Gameplay of Iteration 2 
+(Used wave fucntion collapse for procedural level generation)
 ![WoF gameplay v2](../../assets/v2.gif "WoF gameplay v2")   
