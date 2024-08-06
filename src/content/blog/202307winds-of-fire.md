@@ -1,7 +1,7 @@
 ---
 title: Winds of Fire
 description: Small action game built in Unity in a group of four. Used C# scripts to implmement AI behaviours, and wave function collapse for procedural level generation.
-pubDate: 2023-02-14 23:49
+pubDate: 2023-07-14 23:49
 author: Laskaris Dionyssopoulos
 tags: 
   - Unity

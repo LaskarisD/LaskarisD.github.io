@@ -1,6 +1,6 @@
 ---
 title: Azul Text Game
-pubDate: 11/09/2022 14:25
+pubDate: 11/09/2020 14:25
 author: "Laskaris Dionyssopoulos"
 tags:
   - C++

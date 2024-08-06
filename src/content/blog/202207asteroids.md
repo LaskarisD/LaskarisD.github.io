@@ -1,6 +1,6 @@
 ---
 title: Asteroids-like Game (2D and 3D Version)
-pubDate: 12/31/2022 12:05
+pubDate: 07/31/2022 12:05
 author: "Laskaris Dionyssopoulos"
 tags:
   - C++
