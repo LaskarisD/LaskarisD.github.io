@@ -6,7 +6,6 @@ author: Laskaris Dionyssopoulos
 tags: 
   - Unity
   - C Sharp
-  - AI
 imgUrl: '../../assets/fire.gif'
 layout: ../../layouts/BlogPost.astro
 ---
