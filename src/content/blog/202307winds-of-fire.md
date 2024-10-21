@@ -28,4 +28,6 @@ agent playing a smaller scale version of the game.
 
 ### Gameplay of Iteration 2 
 (Used wave fucntion collapse for procedural level generation)
-![WoF gameplay v2](../../assets/v2.gif "WoF gameplay v2")   
+![WoF gameplay v2](../../assets/v2.gif "WoF gameplay v2")
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/KdROFnoFhB0" title="WOF Short Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

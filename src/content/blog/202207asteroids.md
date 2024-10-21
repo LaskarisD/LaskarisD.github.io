@@ -20,7 +20,10 @@ changes where necessary to add the 3rd dimension as well as implementing
 texturing and lighting and shading with OpenGL for the 3D objects.  
 
 ### 2D Asteroids gameplay:
-![2D asteroids gameplay](../../assets/asteroids.gif "asteroids 2D")   
+<!-- ![2D asteroids gameplay](../../assets/asteroids.gif "asteroids 2D")    -->
+<iframe width="854" height="480" src="https://www.youtube.com/embed/CXRWwR2zOKU" title="2D Asteroids Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 3D Asteroids gameplay:
-![3D asteroids gameplay](../../assets/3das.gif "asteroids 3D")
+<!-- ![3D asteroids gameplay](../../assets/3das.gif "asteroids 3D") -->
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/7vnG9mLLNKw" title="3D Asteroids Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
